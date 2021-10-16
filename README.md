@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [Implemented] User stays logged in across restarts. (1pt)
 - [Implemented] User can log out. (1pt)
 - [Implemented] User can view comments on a post. (3pts)
-- [] User can add a new comment. (5pts)
+- [Implemented] User can add a new comment. (5pts)
 
 The following **bonus** features are implemented:
 
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![](https://i.imgur.com/saV3S68.gif)
+![](https://i.imgur.com/Yh89Pk0.gif)
